@@ -1,0 +1,1 @@
+logwatch --detail Low --mailto root --service sshd vsftpd xrdp --range today
